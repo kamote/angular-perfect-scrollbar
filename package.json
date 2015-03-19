@@ -6,6 +6,8 @@
     "test": "grunt"
   },
   "dependencies": {
+    "perfect-scrollbar": "~0.5.1",
+    "angular": "*"
   },
   "devDependencies": {
     "grunt": "^0.4.2",
